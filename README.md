@@ -7,5 +7,9 @@
 To run the slides:
 
 ```
+yarn
+```
+
+```
 yarn start
 ```
