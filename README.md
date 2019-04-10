@@ -32,8 +32,4 @@ https://thebhwgroup.com/blog/react-native-jni
 
 http://mobilecpptutorials.com/hello-world-app-part-1.html
 
-http://mobilecpptutorials.com/hello-world-app-part-2.html
-
-http://mobilecpptutorials.com/hello-world-app-part-3.html
-
 http://android.mk/
