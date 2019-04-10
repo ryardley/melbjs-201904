@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "mdx-deck start deck.mdx"
+    "start": "mdx-deck start deck.mdx",
+    "build": "mdx-deck build deck.mdx"
   },
   "dependencies": {
     "mdx-deck": "^2.0.9",
