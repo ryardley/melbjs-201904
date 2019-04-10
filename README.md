@@ -28,6 +28,8 @@ yarn start
 
 https://github.com/dropbox/djinni
 
+Some of the code slides around djinni are courtesy of this presentation https://www.dropbox.com/s/w732c1lmx7retq3/XplatCppCon2014.pdf?dl=0
+
 https://thebhwgroup.com/blog/react-native-jni
 
 http://mobilecpptutorials.com/hello-world-app-part-1.html
